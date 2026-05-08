@@ -9,9 +9,9 @@ use crate::ops;
 use crate::pane::Pane;
 
 // Phosphor green palette
-const GREEN: Color = Color::Rgb(0, 255, 65);
-const DIM_GREEN: Color = Color::Rgb(0, 160, 40);
-const BRIGHT_GREEN: Color = Color::Rgb(80, 255, 120);
+const GREEN: Color = Color::Rgb(0, 255, 200);
+const DIM_GREEN: Color = Color::Rgb(0, 128, 100);
+const BRIGHT_GREEN: Color = Color::Rgb(160, 255, 230);
 const CYAN: Color = Color::Rgb(0, 220, 200);
 const YELLOW: Color = Color::Rgb(200, 200, 0);
 const BG: Color = Color::Rgb(0, 8, 0);
